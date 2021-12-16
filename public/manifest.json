@@ -1,6 +1,6 @@
 {
-  "short_name": "Artline App",
-  "name": "Create React App Sample",
+  "short_name": "artline-app",
+  "name": "artline-app",
   "icons": [],
   "start_url": ".",
   "display": "standalone",
