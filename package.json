@@ -18,7 +18,7 @@
     "sass": "^1.43.2",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://miuclara91.github.io/artline-react/",
+  "homepage": "https://artline-app-bedu.herokuapp.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
